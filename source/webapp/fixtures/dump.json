@@ -1,0 +1,80 @@
+[
+{
+  "model": "webapp.guestbook",
+  "pk": 1,
+  "fields": {
+    "author_name": "Alex",
+    "author_email": "alex@mail.com",
+    "post_text": "asd;flk asdasdfasf",
+    "created_at": "2021-12-28T08:42:45.852Z",
+    "updated_at": "2021-12-28T08:42:45.852Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 2,
+  "fields": {
+    "author_name": "Helga",
+    "author_email": "helga@valhalla.com",
+    "post_text": "asd;flk asdfas",
+    "created_at": "2021-12-28T08:51:17.502Z",
+    "updated_at": "2021-12-28T08:51:17.502Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 3,
+  "fields": {
+    "author_name": "author 3",
+    "author_email": "author3@mail.com",
+    "post_text": "';l asf;wewe; ;sda'asfj 2302u",
+    "created_at": "2021-12-28T08:53:25.362Z",
+    "updated_at": "2021-12-28T08:53:25.362Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 4,
+  "fields": {
+    "author_name": "author 4",
+    "author_email": "a4@mail.com",
+    "post_text": "adsfsl safsd",
+    "created_at": "2021-12-28T08:57:03.544Z",
+    "updated_at": "2021-12-28T08:57:03.544Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 5,
+  "fields": {
+    "author_name": "author 5",
+    "author_email": "a4@mail.com",
+    "post_text": "asf;ll ;lkj;lkjlkj afsoioiuy asd",
+    "created_at": "2021-12-28T08:57:27.420Z",
+    "updated_at": "2021-12-28T08:57:27.420Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$7eUzaDw002Ui$8iNX6Jnv+HPWxpF8qn+OteZlVnI5GNvoo3G498PBYwM=",
+    "last_login": "2021-12-28T05:44:19.181Z",
+    "is_superuser": true,
+    "username": "alex",
+    "first_name": "",
+    "last_name": "",
+    "email": "saver2003@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-12-28T05:43:31.573Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
